@@ -5,7 +5,7 @@
 #define PROTOBUF_addressbook_2eproto__INCLUDED
 
 #include <string>
-
+sdsdsdsdds
 #include <google/protobuf/stubs/common.h>
 
 #if GOOGLE_PROTOBUF_VERSION < 2006000
