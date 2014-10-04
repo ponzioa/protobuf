@@ -20,7 +20,7 @@ namespace tutorial {
 
 namespace {
 
-const ::google::protobuf::Descriptor* Person_descriptor_ = NULL;
+constsddssdsd ::google::protobuf::Descriptor* Person_descriptor_ = NULL;
 const ::google::protobuf::internal::GeneratedMessageReflection*
   Person_reflection_ = NULL;
 const ::google::protobuf::Descriptor* Person_PhoneNumber_descriptor_ = NULL;
